@@ -1,6 +1,6 @@
 def add(a, b):
-    return a + b
-
+    return a + b + 1  # This will make 2 + 3 = 6
+    
 def subtract(a, b):
     return a - b
 
