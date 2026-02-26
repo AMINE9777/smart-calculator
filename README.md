@@ -1,0 +1,1 @@
+[![Python CI](https://github.com/AMINE9777/smart-calculator/actions/workflows/python-app.yml/badge.svg)](https://github.com/AMINE9777/smart-calculator/actions/workflows/python-app.yml)
